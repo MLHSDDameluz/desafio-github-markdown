@@ -3,7 +3,7 @@
 Repositório para aplicação dos conceitos de Markdown no arquivo Readme
 
 ### Tarefas
-1.  Criar uma conta no Github []
+1.  Criar uma conta no Github [X]
 2.  Criar um repositório
     - Criar um repositório exclusivo para elaboração do desafio []
     - Adicione o arquivo README.md ao criar o repositório []
