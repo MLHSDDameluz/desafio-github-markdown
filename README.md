@@ -6,9 +6,9 @@ Repositório para aplicação dos conceitos de Markdown no arquivo Readme
 1.  Criar uma conta no Github [X]
 2.  Criar um repositório
     - Criar um repositório exclusivo para elaboração do desafio [X]
-    - Adicione o arquivo README.md ao criar o repositório []
-    - Utilize o Github.dev ou a sua IDE de preferência []
-    - Deixar o repositório público []
+    - Adicione o arquivo README.md ao criar o repositório [X]
+    - Utilize o Github.dev ou a sua IDE de preferência [X]
+    - Deixar o repositório público [X]
 3.  Colaboração
     - Adicionar um colaborador ao repositório []
     - Ambos devem fazer o clone do repositório em suas máquinas []
