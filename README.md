@@ -11,8 +11,8 @@ Repositório para aplicação dos conceitos de Markdown no arquivo Readme
     - Deixar o repositório público [X]
 3.  Colaboração
     - Adicionar um colaborador ao repositório [X]
-    - Ambos devem fazer o clone do repositório em suas máquinas []
-    - Realizar alterações, commits, issues e pull request []
+    - Ambos devem fazer o clone do repositório em suas máquinas [X]
+    - Realizar alterações, commits, issues e pull request [X]
 4.  Formatação em Markdown 
-    - Editar o arquivo README []
-    - Utilizar a linguagem MARKDOWN para alterações []
+    - Editar o arquivo README [X]
+    - Utilizar a linguagem MARKDOWN para alterações [X]
