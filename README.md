@@ -10,7 +10,7 @@ Repositório para aplicação dos conceitos de Markdown no arquivo Readme
     - Utilize o Github.dev ou a sua IDE de preferência [X]
     - Deixar o repositório público [X]
 3.  Colaboração
-    - Adicionar um colaborador ao repositório []
+    - Adicionar um colaborador ao repositório [X]
     - Ambos devem fazer o clone do repositório em suas máquinas []
     - Realizar alterações, commits, issues e pull request []
 4.  Formatação em Markdown 
